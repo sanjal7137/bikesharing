@@ -56,9 +56,13 @@ Following image shows NYC dashboard that gives a high level summary of NYC bikes
 
 ### 1. Bike Utilization:-
 
+Following images shows bike utilization means which bike id has how much tripduration.
+
 ![image](https://github.com/sanjal7137/bikesharing/blob/d5892d46780964406e57bedf6c22592c2506f1bc/Images/Bikeutilization.png)
 
 ### 2. Top starting location:-
+
+following image shows top starting location by lattitude and longitude.
 
 ![image](https://github.com/sanjal7137/bikesharing/blob/d5892d46780964406e57bedf6c22592c2506f1bc/Images/startinglocation.png)
 
