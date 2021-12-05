@@ -8,7 +8,7 @@
 
 Using differnt parameters(field) in NYC city bike sharing data like starttime,endtime,gender etc. find out following results:-
 
-#1.> checkout times for users:-
+# 1. checkout times for users:-
 
 
 ![image](https://github.com/sanjal7137/bikesharing/blob/f422cd5484764b2f51791b40c68a8bd4c8951d72/Images/1.png)
