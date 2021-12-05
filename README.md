@@ -24,10 +24,10 @@ Using differnt parameters(field) in NYC city bike sharing data like starttime,en
 
 ### 3. Trips by weekday for each hour :-
 
-   Following image shows Number of bike trips by weekday for each hour of the day means it shows tripduration for particular minute and  particular hour gender wise. For example 375 rides for Hour of tripduration: 1 and Minute of tripduration:19 .
+   Following image shows Number of bike trips by weekday for each hour of the day means it shows tripduration for particular hour and  particular weeday. For example 43982 rides for Hour of staettime: 5 PM and Weekday of stoptime is Thursday.
 
 
-![image](https://github.com/sanjal7137/bikesharing/blob/30e19fbb221e77b55120205d01abb6d767caf894/Images/2new.png)
+![image](https://github.com/sanjal7137/bikesharing/blob/307d31e5e96c54768d264403e19a9d19cdbdf3c1/Images/3new.png)
 
 
 ### UFO Sightings filtering:
