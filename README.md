@@ -4,7 +4,8 @@
 
    The main objective behind analysis in to find out how NYC bike sharing business work? for this we used 201908-citibike-tripdata and perfoming analysis based on tableau chart to give answer to differnt questions regarding NYC bike sharing.
    
-   Following is link for Tableau dashboard for NYC bike sharing analysis
+   Following is link for Tableau dashboard for NYC bike sharing analysis.
+   
 [link to dashboard Bikesharing](https://public.tableau.com/views/Module14_ChallengeBikeSharing/NYCDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 ## Results
