@@ -29,6 +29,20 @@ Using differnt parameters(field) in NYC city bike sharing data like starttime,en
 
 ![image](https://github.com/sanjal7137/bikesharing/blob/307d31e5e96c54768d264403e19a9d19cdbdf3c1/Images/3new.png)
 
+### 4. Trips by gender (weekday per hour) :-
+
+   Following image shows Number of bike trips by gender for each hour of each day of the week. For example 19385 rides by MALE  for Hour of staettime: 8 AM and Weekday of stoptime is Monday.
+
+
+![image](https://github.com/sanjal7137/bikesharing/blob/b8cdab32ab631109788ac2432507960caa05f271/Images/4new.png)
+
+### 5. User Trips by gender by weekday:-
+
+   Following image shows Number of bike trips broken down by gender for each day of the week by each Usertype. For example 5007 rides by UNKNOWN subscriber for saturday.
+
+
+![image](https://github.com/sanjal7137/bikesharing/blob/0ae90cd3d10b63554df563b085819c46aa7aad84/Images/5new.png)
+
 
 ### UFO Sightings filtering:
 
