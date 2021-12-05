@@ -51,3 +51,16 @@ Following image shows NYC dashboard that gives a high level summary of NYC bikes
 
 
 ![image](https://github.com/sanjal7137/bikesharing/blob/43fa81f6c927bdf02202f888456cd71bd00c5646/Images/dashboard1.png)
+
+### Two Additional visualization:-
+
+### 1. Bike Utilization:-
+
+![image](https://github.com/sanjal7137/bikesharing/blob/d5892d46780964406e57bedf6c22592c2506f1bc/Images/Bikeutilization.png)
+
+### 2. Top starting location:-
+
+![image](https://github.com/sanjal7137/bikesharing/blob/d5892d46780964406e57bedf6c22592c2506f1bc/Images/startinglocation.png)
+
+
+
