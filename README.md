@@ -50,4 +50,4 @@ Using differnt parameters(field) in NYC city bike sharing data like starttime,en
 Following image shows NYC dashboard that gives a high level summary of NYC bikesharing analysis.
 
 
-![image](https://github.com/sanjal7137/bikesharing/blob/ae7cd1d28f5e1ffcd3cc95f3729ca1f97e15c1b0/Images/dashboard.png)
+![image](https://github.com/sanjal7137/bikesharing/blob/43fa81f6c927bdf02202f888456cd71bd00c5646/Images/dashboard1.png)
