@@ -6,7 +6,8 @@
 
 ## Results
 
-Using differnt parameters(field) in NYC city bike sharing data like starttime.endtime,gender etc. find out following results:-
+Using differnt parameters(field) in NYC city bike sharing data like starttime,endtime,gender etc. find out following results:-
+
 #1.> checkout times for users:-
 
 
