@@ -6,6 +6,8 @@
 
 ## Results
 
+[link to dashboard](https://public.tableau.com/views/Module14_ChallengeBikeSharing/NYCDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
+
 Using differnt parameters(field) in NYC city bike sharing data like starttime,endtime,gender etc. find out following results:-
 
 ### 1. checkout times for users:-
