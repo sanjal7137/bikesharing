@@ -10,6 +10,8 @@ Using differnt parameters(field) in NYC city bike sharing data like starttime,en
 
 ### 1. checkout times for users:-
 
+   Following image shows Checkout times for users for every hours in day means it shows tripduration for particular minutes og particular hours for example 375 rides for Hour of tripduration: 1 and Minute of tripduration:19 .
+
 
 ![image](https://github.com/sanjal7137/bikesharing/blob/f422cd5484764b2f51791b40c68a8bd4c8951d72/Images/1.png)
 ### UFO Sightings filtering:
