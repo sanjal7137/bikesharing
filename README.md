@@ -27,7 +27,7 @@ Using differnt parameters(field) in NYC city bike sharing data like starttime,en
 
 ![image](https://github.com/sanjal7137/UFOs/blob/a6a08c2b0e5936222375ee66c6a36c18e5814ff7/Resources/ufofilterdata.png)
 
-2- To clear filters and refresh the webpage to view all UFO data:
+2- To clear filters and refresh the webpage to view all UFO data:d
 
   * filters can be manually cleared
   * the webpage can be refreshed by clicking on the "UFO Sightings"shown in below image
