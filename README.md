@@ -1,12 +1,14 @@
 # bikesharing
-## Overview of the Project
+## Overview of the Analysis
 
-   Here we created web page to organize and visulize UFO data. table in web page show data as per users requirnments means based on filter.we wanted to provide a more in-depth analysis of UFO sightings by allowing users to filter for multiple criteria at the same time. In addition to the date, users would be able to add table filters for the city, state, country, and shape.
+   The main objective behind analysis in to find out how NYC bike sharing business work? for this we used 201908-citibike-tripdata and perfoming analysis based on tableau chart to give answer to differnt questions regarding NYC bike sharing.
 
 
 ## Results
 
-The focus of the project is to build a dynamic webpage that allows users to input filter criteria such as date, city, state, country and/or shape and apply it on UFO sightings information displayed as a table. . The following image shows the final web page, before applying any filters:
+Using differnt parameters(field) in NYC city bike sharing data like starttime.endtime,gender etc. find out following results:-
+#1.> checkout times for users:-
+
 
 ![image](https://github.com/sanjal7137/UFOs/blob/5b22b1ca30ff48128ad0d5c36e6ad9e2007e9490/Resources/ufo.png)
 
