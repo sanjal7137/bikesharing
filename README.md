@@ -21,6 +21,15 @@ Using differnt parameters(field) in NYC city bike sharing data like starttime,en
 
 
 ![image](https://github.com/sanjal7137/bikesharing/blob/30e19fbb221e77b55120205d01abb6d767caf894/Images/2new.png)
+
+### 3. Trips by weekday for each hour :-
+
+   Following image shows Number of bike trips by weekday for each hour of the day means it shows tripduration for particular minute and  particular hour gender wise. For example 375 rides for Hour of tripduration: 1 and Minute of tripduration:19 .
+
+
+![image](https://github.com/sanjal7137/bikesharing/blob/30e19fbb221e77b55120205d01abb6d767caf894/Images/2new.png)
+
+
 ### UFO Sightings filtering:
 
 1- User manually give input as a filter parameter and as per user input table display UFO data in below image enter city name is "ca" in filter and table display all UFO data with city name "ca":
